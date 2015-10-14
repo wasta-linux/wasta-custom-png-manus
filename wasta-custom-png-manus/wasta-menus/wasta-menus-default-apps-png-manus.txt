@@ -1,0 +1,85 @@
+# ==============================================================================
+# wasta-custom-png-manus: wasta-menus-default-apps-png-manus.txt
+#
+# This file should contain all the default wasta-menus apps for wasta-Linux
+#   PNG Manus users.
+#
+# These app symlinks are create in:
+#
+#   /usr/share/wasta-base-setup/wasta-menus/applications
+#
+#   by the wasta-base-postinst.sh script. These are in turn linked to
+#   /usr/share/wasta-menus/applications ONLY IF that folder doesn't already
+#   exist (this prevents any wasta-custom-xyz package customizations of the
+#   default wasta-menus app list from being overwritten when wasta-base-setup
+#   is updated).
+#
+# Any blank line or a line beginning with a '#' will be ignored.  Also, if an
+#   application is not installed, it does not hurt to have it defined here.  For
+#   example, it is OK to have an "Adapt It" specification here even if Adapt It
+#   is not installed.  Later if Adapt It is installed, it will show in wasta-menus.
+#
+# ==============================================================================
+
+# Adapt It
+/usr/share/applications/adaptit.desktop
+
+# Cinnamon Settings
+/usr/share/applications/cinnamon-settings.desktop
+
+# Firefox
+/usr/share/applications/firefox.desktop
+
+# Calculator
+/usr/share/applications/gcalctool.desktop
+
+# ClamTK: Anti-Virus
+/usr/share/applications/clamtk.desktop
+
+# Gedit Text Editor
+/usr/share/applications/gedit.desktop
+
+# GPaint Drawing Program
+/usr/share/applications/gpaint.desktop
+
+# Screenshot Utility
+/usr/share/applications/gnome-screenshot.desktop
+
+# LibreOffice Calc
+/usr/share/applications/libreoffice-calc.desktop
+
+# LibreOffice Writer
+/usr/share/applications/libreoffice-writer.desktop
+
+# MuseScore
+/usr/share/applications/musescore.desktop
+
+# Nemo File Manager
+/usr/share/applications/nemo.desktop    
+
+# Paratext
+/usr/share/applications/paratext.desktop
+
+# Thunderbird
+/usr/share/applications/thunderbird.desktop
+
+# Tux Type Typing Program
+/usr/share/applications/tuxtype.desktop
+
+# VLC Media Player
+/usr/share/applications/vlc.desktop
+
+# Wasta Backup
+/usr/share/applications/wasta-backup.desktop
+
+# Wasta Cinnamon Reset
+/usr/share/applications/wasta-cinnamon-reset.desktop
+
+# Wasta Menus Info
+/usr/share/applications/wasta-menus-info.desktop
+
+# Wasta Resources
+/usr/share/applications/wasta-resources.desktop
+
+# Xiphos
+/usr/share/applications/xiphos.desktop

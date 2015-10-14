@@ -1,0 +1,12 @@
+Source: wasta-custom-png-manus
+Section: utils
+Priority: extra
+Maintainer: Rik Shaw <rikshaw76@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+
+Package: wasta-custom-png-manus
+Architecture: any
+Depends: adaptit, adaptit-docs, gpaint, ibus-kmfl, musescore, paratext-7.4, tuxtype, xiphos, wasta-base-setup, wasta-custom-png, wasta-resources-png-manus, ${shlibs:Depends}, ${misc:Depends}
+Description: wasta-Linux PNG Manus customization
+ Sets up machine for wasta-Linux PNG Manus use.

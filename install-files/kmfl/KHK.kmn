@@ -1,0 +1,20 @@
+c Keyman keying table
+
+NAME "Khehek"
+
+BITMAP "KHK.bmp"
+VERSION 6.0
+
+store(&mnemoniclayout) "1"
+
+begin UNICODE > use(main)
+
+begin > use(Main)
+
+group(Main) using keys
+
+c slash o
+                          
+"/" + "o" > U+00F8
+"/" + "O" > U+00D8
+

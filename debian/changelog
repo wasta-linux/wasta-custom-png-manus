@@ -1,0 +1,30 @@
+wasta-custom-png-manus (1.0.0) precise; urgency=medium
+
+  * Initial GitHub / Launchpad commit
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Wed, 14 Oct 2015 16:16:14 +0300
+
+wasta-custom-png-manus (0.1.3) precise; urgency=low
+
+  * Added wasta-resources-png-manus dependency
+  * Added wasta-resources to wasta-menus default app list
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Fri, 09 May 2014 11:08:16 -0500
+
+wasta-custom-png-manus (0.1.2) precise; urgency=low
+
+  * Some syntax cleanup (kmfl installed to wrong folder, etc.)
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Fri, 09 May 2014 10:55:29 -0500
+
+wasta-custom-png-manus (0.1.1) precise; urgency=low
+
+  * Added KHK.bmp for KHK.kmn keyboard
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Fri, 25 Apr 2014 15:13:50 -0500
+
+wasta-custom-png-manus (0.1.0) precise; urgency=low
+
+  * initial release
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Fri, 25 Apr 2014 12:48:24 -0500
