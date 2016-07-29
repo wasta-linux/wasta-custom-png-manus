@@ -1,8 +1,8 @@
-wasta-custom-png-manus (1.1.0) trusty; urgency=medium
+wasta-custom-png-manus (1.10) UNRELEASED; urgency=medium
 
-  * Initial customization with contetnt for Manus
+  * Initial customization with content for Manus
 
- -- Bill Martin <bill_martin@sil.org>  Sun, 17 Jul 2016 18:22:02 -0500
+ -- Bill Martin <bill_martin@sil.org>  Sun, 17 Jul 2016 18:19:39 -0500
 
 wasta-custom-png-manus (1.0.0) precise; urgency=medium
 
