@@ -20,10 +20,30 @@
 favorite-apps = ['firefox.desktop', 'thunderbird.desktop', 'nemo.desktop', 'libreoffice-writer.desktop', 'adaptit.desktop', 'paratext.desktop', 'tuxtype.desktop', 'xiphos.desktop', 'wasta-backup.desktop']
 panel-launchers = ['firefox.desktop', 'thunderbird.desktop', 'nemo.desktop', 'libreoffice-writer.desktop', 'adaptit.desktop', 'paratext.desktop', 'tuxtype.desktop', 'xiphos.desktop', 'wasta-backup.desktop']
 
+# The following added on consultatation with Andy
+# For Manus the following is the same list as the defaults, but removing the "Scale" applet
+[org.cinnamon]
+enabled-applets = ['panel1:left:0:menu@cinnamon.org', 'panel1:left:1:show-desktop@cinnamon.org', 'panel1:left:2:panel-launchers@cinnamon.org', 'panel1:left:4:window-list@cinnamon.org', 'panel1:right:1:removable-drives@cinnamon.org', 'panel1:right:2:inhibit@cinnamon.org', 'panel1:right:3:bluetooth@cinnamon.org', 'panel1:right:4:network@cinnamon.org', 'panel1:right:5:sound@cinnamon.org', 'panel1:right:6:power@cinnamon.org', 'panel1:right:7:systray@cinnamon.org',  'panel1:right:8:calendar@simonwiles.net', 'panel1:right:9:windows-quick-list@cinnamon.org']
+
+# For Manus use the original Wasta theme colors
+[org.cinnamon.desktop.wm.preferences]
+theme = 'Ambiance-Orange'
+
+[org.cinnamon.desktop.interface]
+gtk-theme = 'Ambiance-Orange'
+icon-theme = 'ubuntu-mono-dark'
+
+[org.cinnamon.theme]
+name = 'Ambiance-Colors'
+
+# For Manus turn off the tap-to-click feature of touchpad
+[org.cinnamon.settings-daemon.peripherals.touchpad]
+tap-to-click = false
+
 [org.cinnamon.desktop.background]
-picture-uri = 'file:///usr/share/backgrounds/linuxmint-maya-extra/storm.jpg'
+picture-uri = 'file:///usr/share/backgrounds/Manus-Jaha.jpg'
 
 # Gnome values (for Gnome-Shell, Unity, etc)
 [org.gnome.desktop.background]
-picture-uri = 'file:///usr/share/backgrounds/linuxmint-maya-extra/storm.jpg'
+picture-uri = 'file:///usr/share/backgrounds/Manus-Jaha.jpg'
 
