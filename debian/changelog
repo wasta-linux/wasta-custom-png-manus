@@ -1,3 +1,9 @@
+wasta-custom-png-manus (1.1.1) trusty; urgency=medium
+
+  * Initial customization with contetnt for Manus
+
+ -- Bill Martin <bill_martin@sil.org>  Mon, 1 Aug 2016 12:52:02 -0500
+
 wasta-custom-png-manus (1.1.0) trusty; urgency=medium
 
   * Initial customization with contetnt for Manus
