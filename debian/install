@@ -2,3 +2,5 @@ install-files/gschema-overrides/*    usr/share/glib-2.0/schemas
 install-files/kmfl                   usr/share
 install-files/backgrounds			 usr/share
 wasta-custom-png-manus               usr/share
+install-files/resources              usr/share/wasta-custom-png-manus
+

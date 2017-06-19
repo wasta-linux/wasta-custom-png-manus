@@ -1,3 +1,9 @@
+wasta-custom-png-manus (1.1.2) xenial; urgency=medium
+
+  * Customization with content for Manus region of PNG
+
+ -- Bill Martin <bill_martin@sil.org>  Mon, 19 Jun 2017 09:06:14 -0500
+
 wasta-custom-png-manus (1.1.1) trusty; urgency=medium
 
   * Initial customization with contetnt for Manus
