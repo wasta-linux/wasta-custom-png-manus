@@ -1,0 +1,10 @@
+Package: wasta-custom-png-manus
+Version: 1.1.0
+Architecture: amd64
+Maintainer: Rik Shaw <rikshaw76@gmail.com>
+Installed-Size: 62
+Depends: adaptit, adaptit-docs, gpaint, gimp, gnote, ibus-kmfl, musescore, paratext-7.5, tuxtype, xiphos, wasta-base-setup, wasta-custom-png, wasta-resources-png-manus, dconf-gsettings-backend | gsettings-backend
+Section: utils
+Priority: extra
+Description: wasta-Linux PNG Manus customization
+ Sets up machine for wasta-Linux PNG Manus use.
