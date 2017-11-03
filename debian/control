@@ -8,6 +8,6 @@ Standards-Version: 3.9.3
 Package: wasta-custom-png-manus
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Recommends: adaptit, adaptit-docs, gpaint, gimp, gnote, gnupg2, ibus-kmfl, musescore, paratext-7.5, tuxtype, xiphos, wasta-sword-modules, wasta-resources-png-manus
+Recommends: adaptit, adaptit-docs, bloom-desktop, gpaint, gimp, gnote, gnupg2, ibus-kmfl, musescore, paratext-7.5, paratext-8.0, tuxtype, xiphos, bcmwl-kernel-source, wesay, wasta-sword-modules, wasta-resources-png-manus
 Description: wasta-Linux PNG Manus customization
  Sets up machine for wasta-Linux PNG Manus use.
